@@ -18,7 +18,7 @@ Detect different physical activities (e.g., walking, running, standing) from raw
 - Feature selection and cross-validation included
 
 ## Files
-- `data/`: sensor readings (accelerometer & gyroscope)
+- `activity_new_data/`: sensor readings (accelerometer & gyroscope)
 - `models/`: trained models (.pkl)
 - `notebooks/`: feature engineering & model training
 - `streamlit_app.py`: optional UI for real-time use
